@@ -1,2 +1,2 @@
 # Werbemittel-Freifunk
-Werbemittel für die verbreitung von Freifunk in Dachau.
+Werbemittel für die Verbreitung von Freifunk in Dachau.
